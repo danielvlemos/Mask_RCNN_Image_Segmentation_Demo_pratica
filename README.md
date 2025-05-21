@@ -8,17 +8,13 @@ Este projeto demonstra a aplicação de um modelo pré-treinado **Mask R-CNN** p
 
 O objetivo principal é exibir a capacidade do modelo em identificar e segmentar objetos pixel a pixel, além de mostrar a configuração e execução de modelos de Deep Learning no ambiente do **Google Colab**, incluindo a gestão de compatibilidade com **TensorFlow 1.x em ambiente 2.x** e o uso de **TPUs/GPUs**.
 
-## Resultados Exemplo
+## Resultado Exemplo
 
-As imagens abaixo ilustram a performance do modelo em diferentes cenários, destacando a detecção de pessoas e outros objetos com suas respectivas máscaras de segmentação:
+A imagem abaixo ilustra a performance do modelo em um cenário urbano, destacando a detecção de pedestres e veículos com suas respectivas máscaras de segmentação:
 
 ### Kitano Street, Kobe
 
-![Segmentação de Kitano Street, Kobe](assets/kitano_street_segmented.jpg)
-
-### Estádio de Futebol
-
-![Segmentação de Estádio de Futebol](assets/estadio_segmented.jpg)
+![Segmentação de Kitano Street, Kobe](./test_results.jpg)
 
 ## Tecnologias Utilizadas
 
@@ -30,4 +26,4 @@ As imagens abaixo ilustram a performance do modelo em diferentes cenários, dest
 
 ## Contato
 
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/danielvlemos/)!
+Conecte-se comigo no [LinkedIn](SEU_LINK_DO_LINKEDIN_AQUI)!
