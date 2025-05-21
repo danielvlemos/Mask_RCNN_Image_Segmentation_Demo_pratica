@@ -26,4 +26,4 @@ A imagem abaixo ilustra a performance do modelo em um cenário urbano, destacand
 
 ## Contato
 
-Conecte-se comigo no [LinkedIn](SEU_LINK_DO_LINKEDIN_AQUI)!
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/danielvlemos/)!
